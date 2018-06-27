@@ -2,7 +2,8 @@
 
 ## Problem Statement
 
-JavaScript defines seven types of data, which means we need to know all of the rules of those types in order to manipulate data the way we want to.
+JavaScript defines seven types of data, which means we need to know all of the
+rules of those types in order to manipulate data the way we want to.
 
 ## Objectives
 
@@ -20,9 +21,9 @@ friends. For more human-friendly representations of different pieces of
 information, we developed **data types**. JavaScript contains a number of
 operators (`+`, `!`, `<=`, etc.) and reserved words (`function`, `for`,
 `debugger`, etc.), which are reserved by the language for a specific purpose.
-***Everything else is data***. And every piece of data falls into one of
-JavaScript's seven data types: numbers, strings, booleans, symbols, objects,
-`null`, and `undefined`.
+(You'll see more on these later.) ***Everything else is data***. And every piece
+of data falls into one of JavaScript's seven data types: numbers, strings,
+booleans, symbols, objects, `null`, and `undefined`.
 
 ## Demonstrate Basic Type Checking with the `typeof` Operator
 
@@ -240,14 +241,14 @@ You'll encounter a lot of these weird data type behaviors throughout your
 JavaScript programming, but fear not: they'll trip you up less and
 less often as you gain experience.
 
-## Resources
-
-- [MDN — JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-- [Destroy All Software — Types](https://www.destroyallsoftware.com/compendium/types?share_key=baf6b67369843fa2)
-- [Destroy All Software — Wat](https://www.destroyallsoftware.com/talks/wat)
-
 ## Conclusion
 
 Data types are representations of pieces of information and JavaScript defines
 seven different types: numbers, strings, booleans, symbols, objects, `null`, and
 `undefined`.
+
+## Resources
+
+- [MDN — JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+- [Destroy All Software — Types](https://www.destroyallsoftware.com/compendium/types?share_key=baf6b67369843fa2)
+- [Destroy All Software — Wat](https://www.destroyallsoftware.com/talks/wat)
